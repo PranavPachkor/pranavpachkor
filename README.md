@@ -88,7 +88,7 @@ I'm an **AI/ML Engineer** passionate about building end-to-end intelligent solut
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>⛓️ <a href="https://github.com/YOUR_USERNAME/chain-copilot">chain-copilot</a></h3>
+      <h3>⛓️ <a href="https://github.com/PranavPachkor/chain-copilot-">chain-copilot</a></h3>
       <p><b>🤖 Agentic AI</b></p>
       <p>An agentic AI copilot that plans, reasons, and takes actions autonomously to complete multi-step tasks.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -96,7 +96,7 @@ I'm an **AI/ML Engineer** passionate about building end-to-end intelligent solut
       <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square"/>
     </td>
     <td width="33%" valign="top">
-      <h3>🏥 <a href="https://github.com/YOUR_USERNAME/ai-healthcare_rag">ai-healthcare_rag</a></h3>
+      <h3>🏥 <a href="https://github.com/PranavPachkor/ai-healthcare_rag">ai-healthcare_rag</a></h3>
       <p><b>✨ Generative AI (RAG)</b></p>
       <p>Retrieval-augmented generation system that answers healthcare questions from medical documents.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -104,7 +104,7 @@ I'm an **AI/ML Engineer** passionate about building end-to-end intelligent solut
       <img src="https://img.shields.io/badge/Embeddings-009688?style=flat-square"/>
     </td>
     <td width="33%" valign="top">
-      <h3>📉 <a href="https://github.com/YOUR_USERNAME/telco-churn-prediction">telco-churn-prediction</a></h3>
+      <h3>📉 <a href="https://github.com/PranavPachkor/telco-churn-prediction">telco-churn-prediction</a></h3>
       <p><b>🤖 Machine Learning</b></p>
       <p>End-to-end ML pipeline predicting customer churn with EDA, feature engineering, and ensemble models.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -119,8 +119,8 @@ I'm an **AI/ML Engineer** passionate about building end-to-end intelligent solut
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PranavPachkor&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranavPachkor&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
