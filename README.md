@@ -88,7 +88,7 @@ I'm an **AI/ML Engineer** passionate about building end-to-end intelligent solut
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>⛓️ <a href="https://github.com/PranavPachkor/chain-copilot-">chain-copilot</a></h3>
+      <h3>⛓️ <a href="https://github.com/PranavPachkor/chain_copilot-">chain-copilot</a></h3>
       <p><b>🤖 Agentic AI</b></p>
       <p>An agentic AI copilot that plans, reasons, and takes actions autonomously to complete multi-step tasks.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -96,7 +96,7 @@ I'm an **AI/ML Engineer** passionate about building end-to-end intelligent solut
       <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square"/>
     </td>
     <td width="33%" valign="top">
-      <h3>🏥 <a href="https://github.com/PranavPachkor/ai-healthcare_rag">ai-healthcare_rag</a></h3>
+      <h3>🏥 <a href="https://github.com/PranavPachkor/ai_healthcare_rag">ai-healthcare_rag</a></h3>
       <p><b>✨ Generative AI (RAG)</b></p>
       <p>Retrieval-augmented generation system that answers healthcare questions from medical documents.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -124,7 +124,7 @@ I'm an **AI/ML Engineer** passionate about building end-to-end intelligent solut
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=PranavPachkor&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
